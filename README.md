@@ -48,14 +48,6 @@ I also have previous experience as a **Front-end Technical Lead and Software Dev
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-
-## GitHub Stats
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felapas&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felapas&layout=compact&hide_border=true)
 
 ---
 
